@@ -12,6 +12,7 @@
         <module>refactoring-serial-date</module>
         <module>junit-internals</module>
         <module>args</module>
+        <module>jcommon</module>
     </modules>
 
 
